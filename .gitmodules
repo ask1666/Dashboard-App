@@ -1,0 +1,6 @@
+[submodule "MetaitoTestAPI"]
+	path = MetaitoTestAPI
+	url = https://github.com/ask1666/MetaitoTestAPI.git
+[submodule "MetaitoTestFrontend"]
+	path = MetaitoTestFrontend
+	url = https://github.com/ask1666/MetaitoTestFrontend.git
